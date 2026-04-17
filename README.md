@@ -22,18 +22,30 @@ A modular agent skill that transforms generic marketing text into high-conversio
 
 ## Installation
 
-This skill requires an AI agent that supports the **SKILL.md standard** (e.g., [Antigravity](https://antigravity.dev), Cursor with custom system prompts, or any LLM with file-system context).
+### One-line install (recommended)
 
-### 1. Clone the repository
+Use the [Skills CLI](https://github.com/vercel-labs/skills) to install directly into your agent's skill directory:
+
+```bash
+npx skills add woakin/marketing-copy
+```
+
+The CLI auto-detects your agent and copies the skill files to the right location (e.g., `.claude/skills/`, `.cursor/skills/`, etc.). No configuration needed.
+
+**Supported agents:** Claude Code · Cursor · GitHub Copilot · Cline · Aider · Gemini CLI · and [more](https://github.com/vercel-labs/skills)
+
+---
+
+### Manual install (alternative)
+
+If you prefer to manage the files yourself:
 
 ```bash
 git clone https://github.com/woakin/marketing-copy.git
 cd marketing-copy
 ```
 
-### 2. Point your agent at `SKILL.md`
-
-Configure your agent to read `SKILL.md` as its system prompt or skill file. The exact method depends on your agent:
+Then point your agent at `SKILL.md`:
 
 | Agent | How to load |
 |---|---|
@@ -41,7 +53,9 @@ Configure your agent to read `SKILL.md` as its system prompt or skill file. The 
 | **Cursor** | Add the contents of `SKILL.md` to `.cursorrules` or your system prompt |
 | **Custom LLM** | Prepend the full contents of `SKILL.md` to your system message |
 
-### 3. Verify the directory structure
+---
+
+### Verify the directory structure
 
 ```
 marketing-copy/          ← Directory name must match SKILL.md `name` field
