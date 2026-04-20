@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "skills": {
+    "marketing-copy": {
+      "source": "woakin/marketing-copy",
+      "sourceType": "github",
+      "computedHash": "270ca2044722335cf2bf3b598b5d71170d3db99fb4f4915ef89be16db8bd808c"
+    }
+  }
+}

@@ -3,20 +3,11 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
 [![SKILL.md](https://img.shields.io/badge/standard-SKILL.md-blue)](https://agentskills.io)
 
-A modular agent skill that transforms generic marketing text into high-conversion copy using proven psychological frameworks. Built on the [SKILL.md](./SKILL.md) standard.
+You prompt your AI to write a landing page, and it spits back: *"We deliver high-performance software."* It sounds like every other tech company, meaning it converts absolutely no one. You are trapped by the Curse of Knowledge—knowing your product so well you can no longer explain why a customer should care.
 
-> **No more "Curse of Knowledge" copy.** This skill forces every draft through a structured retrieval, drafting, and self-audit workflow before output is delivered.
+Every day you launch with generic, feature-heavy copy is a day you bleed ad spend. Prospects land on your page, get overwhelmed by technical specifications, and bounce within 3 seconds. Your competitors aren't winning because their product is better; they are winning because their words are clearer.
 
----
-
-## What This Skill Does
-
-| Without This Skill | With This Skill |
-|---|---|
-| "We provide high-performance solutions." | "Stop losing Sundays to spreadsheets. Automate your reports in 60 seconds." |
-| Generic LLM output | Framework-routed copy (SB7, SUCCES, STEPPS, PAS, BAB) |
-| No brand consistency | Persistent brand profiles with voice, proof points, and forbidden words |
-| No accountability | Structured self-audit with per-element scoring after every draft |
+You can install the **Strategic Copywriter** skill to force your agent through proven psychological frameworks (like StoryBrand and PAS). The skill automatically runs a structured self-audit against your custom brand profile before you see a single word—which means you get crisp, high-converting copy that actually sounds human, without paying an agency.
 
 ---
 
