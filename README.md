@@ -135,6 +135,51 @@ Paste copy you've already written and get a framework score:
 
 ---
 
+## Examples: Before & After the Skill
+
+To demonstrate the difference, let's use a fictional B2B SaaS brand called **Acme** (an automated financial reporting tool). Notice how the "Without Skill" versions suffer from the Curse of Knowledge, jargon, and feature-heavy writing.
+
+### 1. Ads / Landing Pages (PAS Framework)
+**❌ Without Skill:**
+> "At Acme, we offer a comprehensive and robust AI-driven platform for financial data management. Our solution allows enterprises to optimize workflows and achieve maximum operational synergy."
+> *(Problem: Full of jargon, "We" centric, boring, focuses on features instead of benefits).*
+
+**✅ With Skill (Problem-Agitate-Solve):**
+> "Are you spending your Sunday nights manually reconciling spreadsheets? That dreaded month-end report doesn't just steal your time; it drains your energy before the week even starts. With Acme, your financial data is unified and analyzed in seconds... which means you get your weekends back."
+> *(Why it works: Identifies real customer pain, removes jargon, turns a feature into a clear benefit, and makes the customer the hero).*
+
+### 2. Business Deck / Pitch (StoryBrand SB7)
+**❌ Without Skill:**
+> "We are the innovative leaders in Fintech. Our product offers enterprise scalability and features a next-generation dashboard. Invest in Acme today to join the software revolution."
+
+**✅ With Skill:**
+> "As companies grow, their finances become an untrackable mess, leaving founders flying blind. You deserve to know exactly where every penny goes without needing a master's in accounting. Acme gives you a real-time financial dashboard. Install it in minutes, connect your accounts, and stop guessing: start making financial decisions with total confidence."
+
+### 3. Case Studies (BAB Framework)
+**❌ Without Skill:**
+> "We implemented Acme for Client X. The system processes 10,000 transactions per minute using our cloud architecture. The client experienced a 30% efficiency improvement in internal processes."
+
+**✅ With Skill (Before-After-Bridge):**
+> "**Before:** TechCorp's accounting team spent 40 hours a month chasing lost receipts and fixing manual entry errors. They were stressed and always behind schedule.  
+> **After:** Today, month-end close happens on day 1, with zero errors and no late nights. The team now focuses on strategy, not typing.  
+> **The Bridge:** They integrated Acme and automated their entire receipt capture flow using our document-reading AI in less than 2 weeks."
+
+### 4. Data / Key Statistics (SUCCES Framework)
+**❌ Without Skill:**
+> "85% of Acme users report an average processing time reduction from 4.5 hours to 1.2 hours per week, with a low standard deviation."
+
+**✅ With Skill (Concrete & Unexpected):**
+> "Before using Acme, the average accountant loses nearly a full month of work every year just hunting for errors in Excel cells. With Acme, that same person finishes their reports before their first morning coffee."
+
+### 5. Social / Viral Content (STEPPS Framework)
+**❌ Without Skill:**
+> "Try our new v2.4 update! We've added multi-currency support and PDF export. Sign up now! #Fintech #AcmeUpdate"
+
+**✅ With Skill (Social Currency & Emotion):**
+> "We all know that one manager who still prints out Excel sheets to add them up by hand with a calculator 💀. Don't be that manager. Tag a colleague who urgently needs Acme to save their sanity (and their Friday afternoons). 👇🥂"
+
+---
+
 ## Framework Routing
 
 The skill automatically selects the right framework based on your asset type:
