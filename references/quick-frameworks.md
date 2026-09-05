@@ -1,44 +1,63 @@
-# PAS & BAB Frameworks
-**Core Concept:** Short, high-conversion structures that move the reader from pain to action in the fewest possible words.
+# Quick Website Conversion Frameworks (PAS, BAB, FAB)
+**Core Concept:** Fast, modular copywriting frameworks tailored for specific website page sections (problem callouts, transformation stories, and feature grids).
 
 ---
 
-### PAS (Problem, Agitate, Solve)
-*Best for: Ads, landing page headlines, email subject lines, cold outreach.*
+### 1. PAS (Problem, Agitate, Solve)
+*Best for: Website problem sections, pain-point callout bars, objection-handling blocks.*
 
-- **Problem:** State the pain clearly and specifically. Name the villain. Use the customer's own language — not your product's language.
-- **Agitate:** Make the pain visceral. Show the compounding cost of doing nothing. What does their life look like in 6 months if this isn't solved? Use sensory or emotional language.
-- **Solve:** Present your solution as the *inevitable* relief. Do not over-explain. One clear mechanism, one clear outcome.
+- **Problem:** Clearly state the friction using the visitor's everyday vocabulary. Name the Villain. Do not sanitize with corporate jargon.
+- **Agitate:** Make the friction palpable. Show the compounding cost of inaction over the next 6–12 months (lost revenue, team burnout, accumulated tech debt).
+- **Solve:** Introduce your product or feature as the inevitable, elegant relief. One clear mechanism, one definitive outcome.
 
 **Scoring (max 3 points):**
-- P — Problem is specific, uses customer language, names the villain: 1 pt
-- A — Agitation shows compounding cost or emotional consequence, not just repetition: 1 pt
-- S — Solution is the clear, singular relief with a concrete outcome: 1 pt
+- **P** — Problem is specific, names the villain, and uses customer-centric language (1 pt)
+- **A** — Agitation demonstrates compounding cost or emotional frustration, not just repetition (1 pt)
+- **S** — Solution presents a clear, direct mechanism and tangible outcome (1 pt)
 
 ---
 
-### BAB (Before, After, Bridge)
-*Best for: Case studies, testimonial framing, hero sections, one-pagers.*
+### 2. BAB (Before, After, Bridge)
+*Best for: Customer transformation cards, case study highlights, testimonial framing.*
 
-- **Before:** Paint the current "broken" state with empathy — not judgment. The reader must see themselves here.
-- **After:** Describe the "ideal" future state as a vivid, specific scene. Make it desirable enough that they feel the gap.
-- **Bridge:** Your product or service is the *only* credible path from A to B. Name the mechanism. Be specific about how, not just what.
+- **Before:** Describe the visitor's current frustrating status quo with deep empathy (no shame or condescension). The reader must recognize themselves immediately.
+- **After:** Paint the specific, desirable future state once the friction is permanently removed.
+- **Bridge:** Position your product as the singular, credible bridge connecting A to B. Detail the exact mechanism that makes the transformation possible.
 
 **Scoring (max 3 points):**
-- B (Before) — Reader can see themselves in this state; it's specific and empathetic: 1 pt
-- A (After) — Future state is vivid, specific, and emotionally desirable: 1 pt
-- B (Bridge) — Mechanism is clear; the brand is the logical and necessary path: 1 pt
+- **B (Before)** — Captures the visitor's present frustration with authenticity and empathy (1 pt)
+- **A (After)** — Future state is vivid, tangible, and emotionally appealing (1 pt)
+- **B (Bridge)** — The mechanism connecting Before to After is specific and believable (1 pt)
+
+---
+
+### 3. FAB (Feature, Advantage, Benefit)
+*Best for: Website feature grids, product detail cards, comparison tables.*
+
+- **Feature:** What the product actually does or contains (the technical capability or spec).
+- **Advantage:** How that capability outperforms traditional methods or alternatives.
+- **Benefit:** The visceral personal or financial outcome for the user (*"...which means you [outcome]"*).
+
+**Scoring (max 3 points):**
+- **F (Feature)** — Clear, concrete technical capability stated without buzzwords (1 pt)
+- **A (Advantage)** — Explains why this mechanism is superior to the old way (1 pt)
+- **B (Benefit)** — Couped directly to a tangible customer outcome or time/money saved (1 pt)
 
 ---
 
 ### Verification Checklist
 
 **PAS:**
-- [ ] Does the "Problem" use the customer's exact language (not product jargon)?
-- [ ] Does the "Agitate" show consequence over time — not just a restatement of the problem?
-- [ ] Is the "Solve" a single, clear mechanism with one measurable outcome?
+- [ ] Does the "Problem" reflect the visitor's lived reality rather than internal product descriptions?
+- [ ] Does the "Agitate" reveal the compounding penalty of maintaining the status quo?
+- [ ] Is the "Solve" crisp, singular, and focused on an immediate outcome?
 
 **BAB:**
-- [ ] Would a reader in the "Before" state see themselves — without feeling judged?
-- [ ] Is the "After" state specific enough to visualize? (A scene, not a concept.)
-- [ ] Is the "Bridge" the *only* logical path between Before and After?
+- [ ] Would a target visitor instantly identify with the "Before" state?
+- [ ] Is the "After" state specific enough to visualize (concrete numbers, feelings, or scenes)?
+- [ ] Does the "Bridge" clearly explain how the product achieves the transformation?
+
+**FAB:**
+- [ ] Is every feature immediately accompanied by its customer-facing benefit?
+- [ ] Does the copy avoid empty adjectives (*"robust"*, *"cutting-edge"*) in favor of concrete mechanics?
+- [ ] Can a visitor understand the benefit in 5 seconds while scanning the page?

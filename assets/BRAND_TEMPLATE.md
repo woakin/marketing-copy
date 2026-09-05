@@ -1,5 +1,5 @@
 # Brand Profile: [BRAND NAME]
-> **Instructions for the agent:** Fill in every field. Do not leave any field blank — use "None specified" where truly empty. Concrete, specific entries produce better copy than vague ones.
+> **Instructions for the agent:** Fill in every field. Do not leave any field blank — use "None specified" where truly empty. Concrete, specific entries produce significantly higher-converting website copy.
 > Run `bash scripts/validate-brand.sh brands/[this-file].md` to verify the profile is complete before generating copy.
 
 ---
@@ -7,74 +7,84 @@
 ## Identity
 
 - **Brand Name:** [Brand Name]
-- **Industry / Category:** [e.g., B2B SaaS, Consumer Wellness, Professional Services]
-- **Tagline:** [Current tagline or "None"]
+- **Website URL / Domain:** [e.g., https://example.com or None]
+- **Industry / Category:** [e.g., B2B SaaS, DTC E-commerce, Design Agency]
+- **Core Value Proposition / Tagline:** [One clear sentence explaining what you do]
 - **Founded:** [Year or "Unknown"]
 
 ---
 
-## Ideal Customer Persona
+## Target Website Visitor
 
-- **Name / Archetype:** [e.g., "Overwhelmed Marketing Manager," "First-Time Founder"]
-- **Role / Situation:** [Job title, life stage, or specific circumstance]
-- **Primary Pain Point:** [The #1 external problem they face day-to-day]
-- **Internal Fear:** [How this pain makes them feel — the emotion, not the event]
-- **Secret Aspiration:** [Who do they want to become or how do they want to be seen?]
+- **Archetype / Role:** [e.g., "Overwhelmed Head of Marketing," "Solo Bootstrapped Founder"]
+- **Primary Pain Point:** [The #1 daily friction that drove them to search for a solution]
+- **Stage of Awareness:** [Problem-Aware | Solution-Aware | Product-Aware]
+- **Internal Fear / Emotion:** [How this friction makes them feel — anxiety, dread, frustration]
+- **Desired Transformation:** [What does their day-to-day look like once this problem is permanently solved?]
 
 ---
 
 ## The Villain
 
-> The single external antagonist the brand exists to defeat. All copy should frame the brand as the guide that helps the Hero (customer) defeat this villain.
+> The single external antagonist or status quo your product defeats. Website copy positions your brand as the Guide helping the Hero overcome this villain.
 
-- **The Villain is:** [e.g., "Manual, error-prone data entry that steals time from creative work"]
+- **The Villain is:** [e.g., "Manual, error-riddled spreadsheet reconciliations that steal weekends"]
+
+---
+
+## Website Calls to Action
+
+- **Primary CTA (High-Intent):** [e.g., "Start Your Free 14-Day Trial" / "Book a 15-Minute Strategy Call"]
+- **Secondary / Transitional CTA (Low-Friction):** [e.g., "Take a 2-Minute Interactive Tour" / "Calculate Your Potential ROI"]
+- **Friction-Reducing Subtext (Microcopy):** [e.g., "No credit card required • Instant 60-second setup"]
 
 ---
 
 ## Voice & Tone
 
-- **Tone Adjectives (3):** [e.g., "Bold, Empathetic, Direct"]
-- **Sounds Like:** [A brand in any industry that has a similar voice, e.g., "Patagonia meets Y Combinator"]
-- **Energy Level:** [Calm & reassuring | Energetic & urgent | Dry & witty | Warm & conversational]
+- **Tone Adjectives (3):** [e.g., "Direct, Empathetic, Punchy"]
+- **Sounds Like:** [Reference website or voice benchmark, e.g., "Linear meets Basecamp"]
+- **Energy Level:** [Calm & reassuring | Energetic & high-urgency | Punchy & witty | Direct & authoritative]
 
 ---
 
 ## Proof Points
 
-> Must be specific and concrete. Numbers, timelines, and named outcomes only. No vague claims.
+> Must be concrete and verifiable. Exact numbers, timelines, and measurable customer outcomes only.
 
-1. [e.g., "43% faster client onboarding vs. industry average — Source: Internal Q3 2024 data"]
-2. [e.g., "Saves finance teams 6 hours/week on manual reconciliation"]
-3. [e.g., "Used by 1,200+ agencies in 40 countries"]
+1. [e.g., "Reduces customer churn by 34% within the first 60 days"]
+2. [e.g., "Saves sales teams an average of 9 hours every week on CRM data entry"]
+3. [e.g., "Trusted by 2,400+ fast-growing startups across 45 countries"]
 
 ---
 
-## Forbidden Words & Phrases
+## Forbidden Words & Buzzwords
 
-> These must never appear in any copy for this brand.
+> These terms must never appear in website copy for this brand.
 
 - [e.g., "leverage"]
 - [e.g., "synergy"]
 - [e.g., "world-class"]
-- [Add more as needed]
+- [e.g., "disruptive"]
+- [e.g., "seamless"]
 
 ---
 
-## Mandatory Phrases
+## Mandatory Phrases & Trust Signals
 
-> These phrases, claims, or slogans must appear or be honored in every asset.
+> Phrases, guarantees, or claims that must be honored across key landing page sections.
 
-- [e.g., "Your data, your rules."]
-- [e.g., Always reference the free trial in CTAs]
+- [e.g., "SOC-2 Type II Certified"]
+- [e.g., "Cancel anytime with one click"]
 - [Type "None" if no mandatory phrases]
 
 ---
 
 ## Competitors & Differentiation
 
-- **Competitor 1:** [Name] — [How we differ from them in one sentence]
-- **Competitor 2:** [Name] — [How we differ from them in one sentence]
-- **One-Line Differentiator:** [The single clearest reason a customer chooses this brand over all alternatives]
+- **Competitor 1:** [Name] — [How our approach or product differs in one sentence]
+- **Competitor 2:** [Name] — [How our approach or product differs in one sentence]
+- **One-Line Differentiator:** [The singular reason a website visitor chooses this solution over every alternative]
 
 ---
 

@@ -25,8 +25,9 @@ ERRORS=0
 # Required section headings per BRAND_TEMPLATE.md schema
 REQUIRED_SECTIONS=(
   "## Identity"
-  "## Ideal Customer Persona"
+  "## Target Website Visitor"
   "## The Villain"
+  "## Website Calls to Action"
   "## Voice & Tone"
   "## Proof Points"
   "## Forbidden Words"
@@ -45,8 +46,8 @@ done
 
 echo "────────────────────────────────"
 
-# Check for unfilled placeholder brackets [like this]
-UNFILLED=$(grep -oP '\[(?!BRAND NAME\])[^\]]+\]' "$BRAND_FILE" | grep -v "^$" | head -10 || true)
+# Check for unfilled placeholder brackets [like this], excluding [DATE] or allowed tags
+UNFILLED=$(grep -oP '\[(?!BRAND NAME\]|DATE\])[^\]]+\]' "$BRAND_FILE" | grep -v "^$" | head -10 || true)
 if [[ -n "$UNFILLED" ]]; then
   echo "⚠️  WARNING: Unfilled template placeholders found:"
   echo "$UNFILLED" | while read -r line; do echo "    → $line"; done
