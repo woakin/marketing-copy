@@ -3,22 +3,53 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
 [![SKILL.md](https://img.shields.io/badge/standard-SKILL.md-blue)](https://agentskills.io)
 [![Version: 2.1.0](https://img.shields.io/badge/version-2.1.0-green.svg)](https://github.com/woakin/marketing-copy)
+[![Security: Safe](https://img.shields.io/badge/Security-Safe%20(0%20alerts)-brightgreen.svg)](https://skills.sh/woakin/marketing-copy)
+[![Agents](https://img.shields.io/badge/agents-Antigravity%20%7C%20Claude%20%7C%20Cursor%20%7C%20Codex-purple.svg)](https://github.com/vercel-labs/skills)
 
-> **Zero Setup. Immediate Results. 3 Conversion Angles Ready to Test.**
+```bash
+npx skills add woakin/marketing-copy
+```
 
-You prompt your AI to write website copy, and it spits back: *"We deliver robust, innovative, world-class solutions that empower modern enterprises."*
-
-It sounds like every generic SaaS on the internet — meaning it converts nobody. Visitors land on your page, get hit with abstract buzzwords, and bounce within 3 seconds because they can't figure out what you do, who it's for, or why they should care.
-
-The **Website Conversion Copywriter** skill turns your AI assistant into an elite conversion copywriter with **zero setup required**. No 9-question onboarding quizzes. Just call the skill and get **3 high-converting angles** engineered with battle-tested psychological frameworks (StoryBrand SB7, PAS, BAB, FAB, SUCCES), complete with H1s, subheads, dual CTAs, and friction-reducing microcopy.
+> ⚡ **Zero Setup. Immediate Results. 3 Conversion Angles Ready to A/B Test.**  
+> *Installs in 5 seconds • No API keys or configuration needed • Runs 100% offline & local.*
 
 ---
 
-## Installation
+## The Problem With Generic AI Copy
+
+You prompt your AI to write website copy, and it spits back:  
+> *"We deliver robust, innovative, world-class solutions that empower modern enterprises."*
+
+It sounds like every generic SaaS on the internet — **meaning it converts nobody**. Visitors land on your page, get hit with abstract buzzwords, and bounce within 3 seconds because they can't figure out what you do, who it's for, or why they should care.
+
+---
+
+## The Solution: Instant Conversion Intelligence
+
+The **Website Conversion Copywriter** skill turns your AI assistant into an elite conversion copywriter with **zero setup required**. No 9-question onboarding quizzes.
+
+Just call the skill and get **3 high-converting angles** engineered with battle-tested psychological frameworks (StoryBrand SB7, PAS, BAB, FAB, SUCCES), complete with H1s, subheads, dual CTAs, and friction-reducing microcopy:
+
+```
+┌────────────────────────────────────────────────────────────────────────┐
+│ USER: "Write a landing page hero for my automated reconciliation app"   │
+│                                                                        │
+│ AGENT: [Framework: StoryBrand SB7 + 3-Second Rule]                     │
+│ ⚡ Generated 3 Distinct Conversion Angles in 2 seconds:                 │
+│                                                                        │
+│   • Angle 1 (Direct & Clear): StoryBrand SB7 + 3-Second Rule           │
+│   • Angle 2 (Pain & The Villain): PAS Framework                        │
+│   • Angle 3 (Transformation & Relief): BAB Framework                   │
+└────────────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+## Quick Install
 
 ### One-line install (recommended)
 
-Use the [Skills CLI](https://github.com/vercel-labs/skills) to install directly into your AI coding assistant:
+Install directly into your AI coding assistant with the [Skills CLI](https://github.com/vercel-labs/skills):
 
 ```bash
 npx skills add woakin/marketing-copy
@@ -30,9 +61,24 @@ The CLI auto-detects your environment and installs the skill files to the correc
 
 ---
 
+### Manual install (alternative)
+
+```bash
+git clone https://github.com/woakin/marketing-copy.git
+```
+
+| Agent | Loading instructions |
+| :--- | :--- |
+| **Antigravity** | Place in your workspace or skills folder; auto-detected via `SKILL.md` |
+| **Claude Code** | Place in `.claude/skills/marketing-copy/` |
+| **Cursor** | Include `SKILL.md` in `.cursorrules` or reference `@SKILL.md` |
+| **Custom LLM** | Supply `SKILL.md` and `references/` into your system prompt |
+
+---
+
 ## Instant Use (Zero-Setup Workflow)
 
-Just ask your agent for website copy. Provide as much or as little context as you have:
+Ask your agent for website copy. Provide as much or as little context as you have:
 
 ```
 Write a landing page hero section for my app that automates invoice reconciliation.
@@ -147,18 +193,16 @@ Write a 3-column feature grid for Acme using our saved profile.
 
 ---
 
-## Spec Compliance & CI
+## 🚀 Ready to Upgrade Your Website Copy?
 
-Run local validation tests:
+Install in 5 seconds and generate your first 3 conversion angles:
 
 ```bash
-npm test
+npx skills add woakin/marketing-copy
 ```
 
-This verifies:
-- `SKILL.md` frontmatter and metadata compliance
-- Consistency between all references and routing tables
-- Clean validation of brand templates and reference profiles via `scripts/validate-brand.sh`
+**Next step:** Ask your agent:
+> *"Write a high-converting hero section for my website [describe your product in 1 sentence]"*
 
 ---
 
